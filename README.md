@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **patelvikram202@gmail.com**
 
-- ⚡ Fun fact **I think I am a perfectionist without perfection**
+- ⚡ Fun fact **I think I am a debugger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
