@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Vikram Patel</h1>
+<h3 align="center">A passionate Webdevloper developer from India</h3>
+
+
+- 🌱 I’m currently learning **React js**
+
+- 📫 How to reach me **patelvikram202@gmail.com**
+
+- ⚡ Fun fact **I think I am a debugger**
+
+<h3 align="left">Connect with me:</h3>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramptl48) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikram-patel-12889b237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNhPoJdUpQlSG8BwfUdXQXg%3D%3D) 
 
