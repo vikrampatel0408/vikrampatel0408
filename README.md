@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikram Patel</h1>
 <h3 align="center">A passionate Webdevloper developer from India</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
 
 - 🌱 I’m currently learning **React js**
 
