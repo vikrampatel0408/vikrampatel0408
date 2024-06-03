@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Patel</h1>
 <h3 align="center">A passionate Webdevloper developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Blockchain technologies**
 
 - 📫 How to reach me **patelvikram202@gmail.com**
 
